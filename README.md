@@ -1,4 +1,4 @@
-# AWS Lambda function w/ ChatGPT
+# AWS Lambda function with ChatGPT
 This python function can be deployed on AWS using SAM. The function will require authentication from the User Pool that will be created from this SAM template.
 
 This repository has code that should be informational only and used only as an inspiration for use-cases, not being used as is in production.
